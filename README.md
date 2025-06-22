@@ -17,3 +17,8 @@
 
 
 数据集放在archive中，三种模型在model中，训练函数为main.py，predict.py为预测函数，预测单张图片。
+
+
+![img](https://github.com/user-attachments/assets/5b9531cc-3abc-4da1-8a84-5c0784d660cc)
+![img_1](https://github.com/user-attachments/assets/a1178690-cad3-4a60-ac2e-158f273d3e52)
+![img_2](https://github.com/user-attachments/assets/7ac770d0-ce75-4c8a-a708-0b0fd5195fe6)
